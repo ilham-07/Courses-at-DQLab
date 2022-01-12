@@ -94,7 +94,7 @@ I use this repository to store and share data as a result of studying and workin
 -Data Science in Marketing : Customer Segmentation with Python part 2
 
 
-referensi:
+reference:
 
 https://academy.dqlab.id/main
 
